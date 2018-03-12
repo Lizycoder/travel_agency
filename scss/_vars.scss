@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans:400,700');
+
+@font-face {
+  font-family: Aleo;
+  src: 	url('../fonts/Aleo-Font/Desktop OTF/Aleo-Regular.otf') format ('otf'),
+  		url('../fonts/Aleo-Font/Webfont Kit/Regular/aleo-regular-webfont.eot') format ('eot'),
+  		url('../fonts/Aleo-Font/Webfont Kit/Regular/aleo-regular-webfont.svg') format ('svg'),
+  		url('../fonts/Aleo-Font/Webfont Kit/Regular/aleo-regular-webfont.ttf') format ('ttf'),
+  		url('../fonts/Aleo-Font/Webfont Kit/Regular/aleo-regular-webfont.woff') format ('woff'),
+  		url('../fonts/Aleo-Font/Webfont Kit/Regular/aleo-regular-webfont.woff2') format ('woff2');
+  font-weight: regular;
+}
+@font-face {font-family: ionicons;
+src: url('../fonts/ionicons.eot');
+src: url('../fonts/ionicons.eot?#iefix') format('eot'),
+url('../fonts/ionicons.woff') format('woff'),
+url('../fonts/ionicons.ttf') format('truetype'),
+url('../fonts/ionicons.svg') format('svg');
+font-weight: normal;
+font-style: normal;
+}
+
+$text-color:#fff;
+$accent-color:#5474fd;
+$secondary-color:#333333;
+$button-ff: Aleo, 'Times New Roman', serif;
+$text-ff:'Josefin Sans', sans-serif;
+$logo-weight: 700;
+$text-weight: 400;
+$bgc-color:#333;
+
